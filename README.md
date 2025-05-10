@@ -1,7 +1,7 @@
 ### Hey there! I'm Althaf 👋  
 🔧 MERN Stack Developer | 🚀 Building, Breaking & Fixing things on the Web 🦸‍♂️
 
-**with great bugs ..comes great debugging abilities**
+" **with great bugs ..comes great debugging abilities** "
 
 🧑‍💻 Currently learning at **Brototype, Kochi**, grinding with joy and JavaScript. I love turning ☕ into clean, scalable web apps using:
 
