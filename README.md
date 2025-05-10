@@ -12,11 +12,10 @@
 
 🛠️ **Featured Projects**:
 - 🛒 *SneakerVerse*: E-commerce platform with payments, analytics, and admin panel
-
+"https://github.com/Althafx/SneakerVerse"
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
-😄 Fun facts:
 - 🐞 Late night coding makes me feel like Batman...,minus the money
 - 🎧 Code fuel: Phonk + dark theme + keyboard clacks
 - 🧪 Console.log() is my most trusted sidekick
