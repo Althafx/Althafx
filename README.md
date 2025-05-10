@@ -1,7 +1,7 @@
 ### Hey there! I'm Althaf 👋  
 🔧 MERN Stack Developer | 🚀 Building, Breaking & Fixing things on the Web 🦸‍♂️
 
-" **with great bugs ..comes great debugging abilities** "
+"🐞 **with great bugs ..comes great debugging abilities** "
 
 🧑‍💻 Currently learning at **Brototype, Kochi**, grinding with joy and JavaScript. I love turning ☕ into clean, scalable web apps using:
 
@@ -16,7 +16,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
-- 🐞 Late night coding makes me feel like Batman...,minus the money
+- 🦇 Late night coding makes me feel like Batman...,minus the money
 - 🎧 Code fuel: Phonk + dark theme + keyboard clacks
 - 🧪 Console.log() is my most trusted sidekick
 
