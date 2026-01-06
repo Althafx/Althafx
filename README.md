@@ -11,8 +11,11 @@
 - 🌍 Hosting on AWS EC2 + Nginx
 
 🛠️ **Featured Projects**:
-- 🛒 *SneakerVerse*: E-commerce platform with payments, analytics, and admin panel
-"https://github.com/Althafx/SneakerVerse"
+- 🛒 *SneakerVerse*: E-commerce platform with payments, analytics, and admin panel "https://sneakerverse.onrender.com"
+- 🛤️ *Trajectory*: Gamified AI integrated career map generator "https://career-road-map-ai.vercel.app"
+- 🤖 *AI Portfolio*: Portfolio with AI chatbot animated character "https://ai-portfolio-client.vercel.app"
+- 🧞‍♂️*JourneyGenie*: Personal AI Travel itinerary generator "https://journey-genie-beryl.vercel.app"
+  
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 
